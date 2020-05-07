@@ -1,0 +1,7 @@
+{
+  "name": "notaac",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
